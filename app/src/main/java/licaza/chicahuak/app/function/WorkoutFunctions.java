@@ -1,8 +1,8 @@
-package licaza.netekoliskoyan.app.function;
+package licaza.chikauak.app.function;
 
 import java.util.function.Function;
-import licaza.netekoliskoyan.app.domain.Workout;
-import licaza.netekoliskoyan.app.infrastructure.WorkoutRepository;
+import licaza.chikauak.app.domain.Workout;
+import licaza.chikauak.app.infrastructure.WorkoutRepository;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

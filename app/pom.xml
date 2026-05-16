@@ -8,17 +8,26 @@
     <relativePath/>
     <!-- lookup parent from repository -->
   </parent>
-  <groupId>licaza.netekoliskoyan</groupId>
+  <groupId>licaza.chikauak</groupId>
   <artifactId>app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name/>
-  <description/>
-  <url/>
+  <name>Netekoliskoyan</name>
+  <description>Serverless app for persisting workout data.</description>
+  <url>https://github.com/landoicco/tu-proyecto</url>
+  <inceptionYear>2026</inceptionYear>
   <licenses>
-    <license/>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
   </licenses>
   <developers>
-    <developer/>
+    <developer>
+      <name>Lando Icaza C.</name>
+      <email>landoicco@gmail.com</email>
+      <url>https://github.com/landoicco</url>
+    </developer>
   </developers>
   <scm>
     <connection/>
@@ -80,7 +89,7 @@
         <version>3.5.1</version>
         <configuration>
           <createDependencyReducedPom>false</createDependencyReducedPom>
-          <outputFile>${project.basedir}/../netekoliskoyan.jar</outputFile>
+          <outputFile>${project.basedir}/../chikauakFat.jar</outputFile>
         </configuration>
         <executions>
           <execution>

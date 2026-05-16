@@ -1,8 +1,8 @@
-package licaza.netekoliskoyan.app.infrastructure;
+package licaza.chikauak.app.infrastructure;
 
 import java.time.Instant;
 import java.util.Optional;
-import licaza.netekoliskoyan.app.domain.Workout;
+import licaza.chikauak.app.domain.Workout;
 import org.springframework.stereotype.Repository;
 
 @Repository

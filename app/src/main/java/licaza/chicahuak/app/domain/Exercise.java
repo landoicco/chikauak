@@ -1,4 +1,4 @@
-package licaza.netekoliskoyan.app.domain;
+package licaza.chikauak.app.domain;
 
 import java.util.List;
 
