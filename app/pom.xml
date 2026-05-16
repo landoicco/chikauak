@@ -80,6 +80,7 @@
         <version>3.5.1</version>
         <configuration>
           <createDependencyReducedPom>false</createDependencyReducedPom>
+          <outputFile>${project.basedir}/../netekoliskoyan.jar</outputFile>
         </configuration>
         <executions>
           <execution>

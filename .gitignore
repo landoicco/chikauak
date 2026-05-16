@@ -1,1 +1,6 @@
-app/target
+*/target
+*.jar
+
+# CDK asset staging directory
+iac/.cdk.staging
+iac/cdk.out
