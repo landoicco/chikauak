@@ -2,11 +2,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>licaza.netekoliskoyan</groupId>
+  <groupId>licaza.chikauak</groupId>
   <artifactId>iac</artifactId>
   <version>0.1</version>
-  <name>NetekoliskoyanIaC</name>
-  <description>IaC for Netekoliskoyan</description>
+  <name>ChicahuakIaC</name>
+  <description>IaC for Chikahuak</description>
   <url>https://github.com/landoicco/tu-proyecto</url>
   <inceptionYear>2026</inceptionYear>
   <licenses>
@@ -61,7 +61,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>3.1.0</version>
         <configuration>
-          <mainClass>licaza.netekoliskoyan.iac.IacApp</mainClass>
+          <mainClass>licaza.chikauak.iac.IacApp</mainClass>
         </configuration>
       </plugin>
       <plugin>

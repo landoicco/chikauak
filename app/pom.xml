@@ -11,9 +11,9 @@
   <groupId>licaza.chikauak</groupId>
   <artifactId>app</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Netekoliskoyan</name>
+  <name>Chikauak</name>
   <description>Serverless app for persisting workout data.</description>
-  <url>https://github.com/landoicco/tu-proyecto</url>
+  <url>https://github.com/landoicco/chikauak</url>
   <inceptionYear>2026</inceptionYear>
   <licenses>
     <license>

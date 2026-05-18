@@ -1,4 +1,4 @@
-# Netekoliskoyan
+# Chikauak
 
 What this means?
-https://nahuatl.org.mx/decir-los-deportes-en-en-nahuatl/
+https://gdn.iib.unam.mx/diccionario/chicahuac/181743

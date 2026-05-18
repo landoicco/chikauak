@@ -1,4 +1,4 @@
-package licaza.netekoliskoyan.iac;
+package licaza.chikauak.iac;
 
 import java.util.Map;
 import software.amazon.awscdk.CfnOutput;
@@ -29,7 +29,7 @@ public class IacStack extends Stack {
             .build();
 
     // Ruta relativa hacia el archivo JAR de tu aplicación de Spring
-    String jarPath = "../netekoliskoyan.jar";
+    String jarPath = "../chikauakFat.jar";
 
     // Configuración común para las Lambdas de Java
     // Nota: Le asignamos 512MB de RAM. Spring Boot necesita un mínimo de memoria para arrancar

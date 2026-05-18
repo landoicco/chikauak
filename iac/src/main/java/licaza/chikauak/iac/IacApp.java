@@ -1,4 +1,4 @@
-package licaza.netekoliskoyan.iac;
+package licaza.chikauak.iac;
 
 import software.amazon.awscdk.App;
 import software.amazon.awscdk.Environment;
@@ -15,7 +15,7 @@ public class IacApp {
             .region("us-east-1")
             .build();
 
-    new IacStack(app, "NetekoliskoyanStack", StackProps.builder().env(env).build());
+    new IacStack(app, "ChikauakStack", StackProps.builder().env(env).build());
 
     app.synth();
   }
