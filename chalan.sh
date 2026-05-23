@@ -7,7 +7,7 @@ INFO='\033[1;33m'
 SUCCESS='\033[1;32m'
 NC='\033[0m' # No Color (Reset)
 
-echo -e "${INFO}--- NETEKOLISKOYAN App Builder ---${NC}"
+echo -e "${INFO}--- Chikauak App & IaC Builder ---${NC}"
 
 
 echo -e "${INFO}Step one: Build the main app (All AWS Lambda code...)${NC}"
